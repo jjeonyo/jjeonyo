@@ -39,14 +39,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jjeonyo/vision">vision</a></h3>
-      <p>LangChain, 임베딩, 벡터 검색을 활용해 매뉴얼 기반 지원 흐름을 실험한 프로토타입입니다.</p>
-      <p><strong>핵심 포인트</strong><br />LangChain 검색 체인<br />Supabase 벡터 검색<br />매뉴얼 업로드 및 테스트 스크립트</p>
+      <h3><a href="https://github.com/jjeonyo/Infoboss-classificationPOC">Infoboss-classificationPOC</a></h3>
+      <p>이미지 분류 실험을 위한 POC 저장소로, TensorFlow 기반 학습과 분류 성능 분석 흐름이 담겨 있습니다.</p>
+      <p><strong>핵심 포인트</strong><br />VGG19 기반 이미지 분류<br />정확도 및 혼동행렬 시각화<br />분류 실험용 Python 스크립트</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/jjeonyo/DX_project">DX_project</a></h3>
-      <p>크롤링, 전처리, 클러스터링, 감성 분석까지 이어지는 텍스트 마이닝 및 임베딩 실험 저장소입니다.</p>
-      <p><strong>핵심 포인트</strong><br />Python 노트북 및 스크립트<br />OpenAI 및 토큰 기반 처리<br />데이터 준비 워크플로우</p>
+      <h3><a href="https://github.com/jjeonyo/GNTEL-automationForEV">GNTEL-automationForEV</a></h3>
+      <p>전기차 충전기 점검 사진과 엑셀 양식을 연결해 결과 문서를 자동화하는 업무형 Python 도구입니다.</p>
+      <p><strong>핵심 포인트</strong><br />사진 파일 분리 및 리사이즈<br />엑셀 양식 자동 채움<br />점검 결과물 생성 자동화</p>
     </td>
   </tr>
 </table>
@@ -70,13 +70,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jjeonyo/vision">
-        <img src="https://opengraph.githubassets.com/profile-vision/jjeonyo/vision" alt="vision preview" width="100%" />
+      <a href="https://github.com/jjeonyo/Infoboss-classificationPOC">
+        <img src="https://opengraph.githubassets.com/profile-infoboss-classification-poc/jjeonyo/Infoboss-classificationPOC" alt="Infoboss-classificationPOC preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/jjeonyo/DX_project">
-        <img src="https://opengraph.githubassets.com/profile-dx-project/jjeonyo/DX_project" alt="DX_project preview" width="100%" />
+      <a href="https://github.com/jjeonyo/GNTEL-automationForEV">
+        <img src="https://opengraph.githubassets.com/profile-gntel-automation-ev/jjeonyo/GNTEL-automationForEV" alt="GNTEL-automationForEV preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -114,8 +114,8 @@
 
   <a href="https://github.com/jjeonyo/lgdx_backend">lgdx_backend</a><br />
   <a href="https://github.com/jjeonyo/lgdx_frontend">lgdx_frontend</a><br />
-  <a href="https://github.com/jjeonyo/vision">vision</a><br />
-  <a href="https://github.com/jjeonyo/DX_project">DX_project</a><br />
+  <a href="https://github.com/jjeonyo/Infoboss-classificationPOC">Infoboss-classificationPOC</a><br />
+  <a href="https://github.com/jjeonyo/GNTEL-automationForEV">GNTEL-automationForEV</a><br />
   <a href="https://github.com/jjeonyo/Algorithm">Algorithm</a><br />
   <a href="https://github.com/jjeonyo/jhj4862123.io">jhj4862123.io</a>
 </details>
