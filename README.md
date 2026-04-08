@@ -51,6 +51,37 @@
   </tr>
 </table>
 
+## 프로젝트 미리보기
+
+<p>아래 카드는 각 대표 저장소의 GitHub 미리보기입니다. 클릭하면 바로 저장소로 이동합니다.</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jjeonyo/lgdx_backend">
+        <img src="https://opengraph.githubassets.com/profile-lgdx-backend/jjeonyo/lgdx_backend" alt="lgdx_backend preview" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jjeonyo/lgdx_frontend">
+        <img src="https://opengraph.githubassets.com/profile-lgdx-frontend/jjeonyo/lgdx_frontend" alt="lgdx_frontend preview" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jjeonyo/vision">
+        <img src="https://opengraph.githubassets.com/profile-vision/jjeonyo/vision" alt="vision preview" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/jjeonyo/DX_project">
+        <img src="https://opengraph.githubassets.com/profile-dx-project/jjeonyo/DX_project" alt="DX_project preview" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 기술 스택
 
 <p>
