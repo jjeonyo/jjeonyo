@@ -1,0 +1,54 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">jjeonyo profile banner</title>
+  <desc id="desc">jjeonyo GitHub profile banner with RAG, FastAPI, Flutter, Vision, and Firebase focus areas.</desc>
+  <defs>
+    <linearGradient id="card" x1="20" y1="20" x2="1180" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F2E8" />
+      <stop offset="1" stop-color="#FBFAF6" />
+    </linearGradient>
+    <linearGradient id="accent" x1="824" y1="64" x2="1138" y2="258" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E6F1FB" />
+      <stop offset="0.55" stop-color="#E1F5EE" />
+      <stop offset="1" stop-color="#FAECE7" />
+    </linearGradient>
+  </defs>
+
+  <rect x="20" y="20" width="1160" height="280" rx="28" fill="url(#card)" />
+  <rect x="20" y="20" width="1160" height="280" rx="28" stroke="#E6DECC" stroke-width="2" />
+
+  <circle cx="1015" cy="96" r="142" fill="#E9F1FB" />
+  <circle cx="1128" cy="54" r="58" fill="#E5F3EE" />
+  <circle cx="1114" cy="226" r="86" fill="#F9EDE6" />
+  <path d="M788 70C837 37 911 49 955 94C999 139 1001 212 956 250C911 288 836 289 787 258C738 227 715 153 744 109C752 96 765 84 788 70Z" fill="url(#accent)" />
+
+  <rect x="56" y="52" width="118" height="28" rx="14" fill="#2C2C2A" />
+  <text x="115" y="70" fill="#FFFDF8" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2" text-anchor="middle">GITHUB</text>
+
+  <text x="56" y="132" fill="#20201F" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="54" font-weight="800">jjeonyo</text>
+  <text x="56" y="172" fill="#185FA5" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="24" font-weight="700">AI 기능을 실제 사용자 경험으로 연결합니다</text>
+  <text x="56" y="206" fill="#4E4D48" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="21" font-weight="500">RAG, 백엔드 로직, Flutter 앱 흐름을 하나의 제품 경험으로 구현합니다.</text>
+
+  <rect x="56" y="236" width="154" height="40" rx="20" fill="#0F6E56" />
+  <text x="133" y="261" fill="#FFFFFF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" font-weight="700" text-anchor="middle">RAG</text>
+
+  <rect x="224" y="236" width="168" height="40" rx="20" fill="#185FA5" />
+  <text x="308" y="261" fill="#FFFFFF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" font-weight="700" text-anchor="middle">FastAPI</text>
+
+  <rect x="406" y="236" width="164" height="40" rx="20" fill="#534AB7" />
+  <text x="488" y="261" fill="#FFFFFF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" font-weight="700" text-anchor="middle">Flutter</text>
+
+  <rect x="840" y="102" width="126" height="42" rx="21" fill="#FFFFFF" stroke="#D8E3F0" stroke-width="2" />
+  <text x="903" y="128" fill="#185FA5" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" font-weight="700" text-anchor="middle">Vision</text>
+
+  <rect x="978" y="102" width="146" height="42" rx="21" fill="#FFFFFF" stroke="#DCEBDD" stroke-width="2" />
+  <text x="1051" y="128" fill="#0F6E56" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" font-weight="700" text-anchor="middle">Firebase</text>
+
+  <rect x="866" y="158" width="116" height="42" rx="21" fill="#FFFFFF" stroke="#E9D6CB" stroke-width="2" />
+  <text x="924" y="184" fill="#993C1D" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" font-weight="700" text-anchor="middle">OpenAI</text>
+
+  <rect x="996" y="158" width="128" height="42" rx="21" fill="#FFFFFF" stroke="#E4DCF4" stroke-width="2" />
+  <text x="1060" y="184" fill="#534AB7" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" font-weight="700" text-anchor="middle">Gemini</text>
+
+  <rect x="892" y="214" width="174" height="42" rx="21" fill="#FFFFFF" stroke="#E6DECC" stroke-width="2" />
+  <text x="979" y="240" fill="#2C2C2A" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" font-weight="700" text-anchor="middle">Demo Flow</text>
+</svg>
