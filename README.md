@@ -16,38 +16,37 @@
 
 검색 기반 답변, 백엔드 서비스, 사용자 인터페이스를 하나의 흐름으로 묶어 실제로 동작하는 AI 경험을 만드는 개발자입니다.
 
-최근에는 아래 주제에 집중하고 있습니다.
-
 - 매뉴얼과 구조화 데이터를 기반으로 한 RAG 응답 설계
 - Flutter 클라이언트와 FastAPI, Spring Boot, Firebase, Supabase 연결
 - 채팅, 비전, 영상 생성 흐름을 데모 가능한 제품 형태로 구현
 
+최근에는 SSAFY를 이수 중에 있습니다.(15기 JAVA전공 트랙)
+
 ## 대표 프로젝트
 
-<p><strong>lgdx_backend</strong>와 <strong>lgdx_frontend</strong>는 각각 별도 결과물이 아니라, 하나의 사용자 지원형 AI 서비스를 백엔드와 프론트엔드로 분리해 구현한 프로젝트입니다.</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jjeonyo/lgdx_backend">lgdx_backend</a></h3>
-      <p>매뉴얼 기반 검색, 생성형 답변, 영상 생성, 상태 저장을 하나의 흐름으로 연결해 사용자 지원 경험을 구현한 백엔드입니다. 단순 API 서버보다 AI 기능을 실제 서비스 시나리오로 묶는 orchestration 역할에 가깝습니다.</p>
+      <p>매뉴얼 기반 검색, 생성형 답변, 영상 생성, 상태 저장을 하나의 흐름으로 연결해 사용자 지원 경험을 구현한 백엔드입니다. 단순 API 서버보다 AI 기능을 실제 서비스 시나리오로 묶는 orchestration 역할을 수행합니다.</p>
       <p><strong>핵심 포인트</strong><br />RAG 기반 답변 흐름 설계<br />FastAPI, Firestore, Supabase 연동<br />생성형 미디어 파이프라인 연결</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jjeonyo/lgdx_frontend">lgdx_frontend</a></h3>
-      <p>백엔드의 검색/생성 결과를 사용자가 실제로 소비할 수 있도록 채팅, 라이브, 영상 재생 흐름을 앱 경험으로 구성한 Flutter 프론트엔드입니다. AI 결과를 UX로 번역하는 역할에 집중했습니다.</p>
+      <p>백엔드의 검색/생성 결과를 사용자가 실제로 소비할 수 있도록 채팅, 라이브, 영상 재생 흐름을 앱 경험으로 구성한 Flutter 프론트엔드입니다.</p>
       <p><strong>핵심 포인트</strong><br />채팅, 라이브, 재생 화면 흐름 설계<br />Firebase 상태와 화면 연동<br />서버 결과를 UX로 연결</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jjeonyo/Infoboss-classificationPOC">Infoboss-classificationPOC</a></h3>
-      <p>이미지 분류 문제를 실제로 다뤄보기 위해 만든 POC 저장소입니다. TensorFlow 기반 분류 모델 학습, 성능 시각화, 혼동행렬 분석까지 포함해 모델링 실험 과정을 직접 다뤘습니다.</p>
+      <p>이미지 분류 모델을 실제 비즈니스에 적용해보기 위해 만든 POC 프로젝트입니다. TensorFlow 기반 분류 모델 학습, 성능 시각화, 혼동행렬 분석까지 포함해 모델링 실험 과정을 직접 다뤘습니다.</p>
       <p><strong>핵심 포인트</strong><br />VGG19 기반 이미지 분류 실험<br />정확도 및 혼동행렬 분석<br />모델 성능 검증용 Python 스크립트</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jjeonyo/GNTEL-automationForEV">GNTEL-automationForEV</a></h3>
-      <p>전기차 충전기 점검 업무에서 반복적으로 발생하는 사진 정리와 엑셀 문서 작성을 줄이기 위해 만든 자동화 도구입니다. 현업 문서 흐름을 코드로 바꿔본 경험이 담긴 저장소입니다.</p>
+      <p>전기차 충전기 점검 업무에서 반복적으로 발생하는 사진 정리와 엑셀 문서 작성을 줄이기 위해 만든 자동화 도구입니다. 현업 문서 흐름을 코드로 바꿔본 경험입니다. </p>
       <p><strong>핵심 포인트</strong><br />사진 파일 분리 및 리사이즈 자동화<br />엑셀 양식 자동 입력<br />반복 업무 문서 생성 자동화</p>
     </td>
   </tr>
