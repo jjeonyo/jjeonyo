@@ -99,14 +99,10 @@
 
 ## 현재 집중하고 있는 것
 
-- 더 신뢰할 수 있는 매뉴얼 기반 어시스턴트 만들기
-- 프로젝트 문서화와 저장소 표현력 개선하기
-- 실험 결과를 데모 가능한 제품 형태로 다듬기
+- AI, 파라미터 튜닝 고도화
+- JAVA 백엔드 학습
+- Spring Boot & Spring AI
 
-## 함께 보면 좋은 저장소
-
-- <a href="https://github.com/jjeonyo/jhj4862123.io">jhj4862123.io</a> : 개인 사이트 배포 저장소
-- <a href="https://github.com/jjeonyo/Algorithm">Algorithm</a> : 알고리즘 학습 및 풀이 기록
 
 <details>
   <summary>추천 pinned repositories</summary>
