@@ -103,16 +103,3 @@
 - JAVA 백엔드 학습
 - Spring Boot & Spring AI
 
-
-<details>
-  <summary>추천 pinned repositories</summary>
-
-  <br />
-
-  <a href="https://github.com/jjeonyo/lgdx_backend">lgdx_backend</a><br />
-  <a href="https://github.com/jjeonyo/lgdx_frontend">lgdx_frontend</a><br />
-  <a href="https://github.com/jjeonyo/Infoboss-classificationPOC">Infoboss-classificationPOC</a><br />
-  <a href="https://github.com/jjeonyo/GNTEL-automationForEV">GNTEL-automationForEV</a><br />
-  <a href="https://github.com/jjeonyo/Algorithm">Algorithm</a><br />
-  <a href="https://github.com/jjeonyo/jhj4862123.io">jhj4862123.io</a>
-</details>
