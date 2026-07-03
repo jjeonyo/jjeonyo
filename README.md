@@ -1,5 +1,3 @@
-<!-- GitHub profile README draft for https://github.com/jjeonyo -->
-
 <p align="center">
   <img src="./assets/profile-banner.svg" alt="jjeonyo profile banner" width="100%" />
 </p>
@@ -20,16 +18,15 @@
 - Flutter 클라이언트와 FastAPI, Spring Boot, Firebase, Supabase 연결
 - 채팅, 비전, 영상 생성 흐름을 데모 가능한 제품 형태로 구현
 
-최근에는 SSAFY를 이수 중에 있습니다.(15기 JAVA전공 트랙)
+현재 SSAFY 15기 Java 전공 트랙을 이수하고 있습니다.
 
 ## 대표 프로젝트
-
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jjeonyo/lgdx_backend">lgdx_backend</a></h3>
-      <p>매뉴얼 기반 검색, 생성형 답변, 영상 생성, 상태 저장을 하나의 흐름으로 연결해 사용자 지원 경험을 구현한 백엔드입니다. 단순 API 서버보다 AI 기능을 실제 서비스 시나리오로 묶는 orchestration 역할을 수행합니다.</p>
+      <p>매뉴얼 기반 검색, 생성형 답변, 영상 생성, 상태 저장을 하나의 흐름으로 연결해 사용자 지원 경험을 구현한 백엔드입니다. 단순 API 서버를 넘어, AI 기능을 실제 서비스 시나리오로 묶는 오케스트레이션 역할을 합니다.</p>
       <p><strong>핵심 포인트</strong><br />RAG 기반 답변 흐름 설계<br />FastAPI, Firestore, Supabase 연동<br />생성형 미디어 파이프라인 연결</p>
     </td>
     <td width="50%" valign="top">
@@ -46,7 +43,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/jjeonyo/GNTEL-automationForEV">GNTEL-automationForEV</a></h3>
-      <p>전기차 충전기 점검 업무에서 반복적으로 발생하는 사진 정리와 엑셀 문서 작성을 줄이기 위해 만든 자동화 도구입니다. 현업 문서 흐름을 코드로 바꿔본 경험입니다. </p>
+      <p>전기차 충전기 점검 업무에서 반복적으로 발생하는 사진 정리와 엑셀 문서 작성을 줄이기 위해 만든 자동화 도구입니다. 현업 문서 흐름을 코드로 바꿔본 경험입니다.</p>
       <p><strong>핵심 포인트</strong><br />사진 파일 분리 및 리사이즈 자동화<br />엑셀 양식 자동 입력<br />반복 업무 문서 생성 자동화</p>
     </td>
   </tr>
@@ -97,9 +94,19 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain badge" />
 </p>
 
+## GitHub 활동
+
+<p>
+  <img src="https://streak-stats.demolab.com/?user=jjeonyo&background=FBFAF6&border=E6DECC&ring=0F6E56&fire=993C1D&currStreakLabel=185FA5&sideLabels=185FA5&currStreakNum=20201F&sideNums=20201F&dates=4E4D48" alt="jjeonyo GitHub streak" />
+</p>
+
+<p>
+  <img src="https://ghchart.rshah.org/185FA5/jjeonyo" alt="jjeonyo contribution graph" width="100%" />
+</p>
+
 ## 현재 집중하고 있는 것
 
-- AI, 파라미터 튜닝 고도화
-- JAVA 백엔드 학습
+- AI 파라미터 튜닝 고도화
+- Java 백엔드 학습
 - Spring Boot & Spring AI
 
