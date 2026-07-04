@@ -10,7 +10,7 @@
 
 ## 소개 · About
 
-AI 기능을 실제 서비스 흐름으로 연결하는 개발자, 전효준입니다.
+AI 기능을 실제 서비스 흐름으로 연결하는 개발자, 전효준입니다.<br />
 *I build working AI product flows — from RAG pipelines to Spring backends and client UX.*
 
 - RAG·생성형 응답을 제품 시나리오로 묶는 백엔드 orchestration
