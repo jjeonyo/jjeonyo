@@ -47,8 +47,8 @@ AI 기능을 실제 서비스 흐름으로 연결하는 개발자, 전효준입�
 ## GitHub 통계 · Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjeonyo&show_icons=true&hide_border=true&title_color=1F6E68&icon_color=1F6E68&text_color=59636e&bg_color=00000000" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeonyo&layout=compact&hide_border=true&title_color=1F6E68&text_color=59636e&bg_color=00000000" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jjeonyo&theme=transparent&title_color=1F6E68&text_color=59636e&icon_color=1F6E68&border_color=00000000" height="165" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjeonyo&theme=transparent&title_color=1F6E68&text_color=59636e&chart_color=1F6E68&border_color=00000000" height="165" alt="Top languages" />
 </p>
 
 ## 기술 스택 · Tech Stack
