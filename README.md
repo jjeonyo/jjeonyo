@@ -25,7 +25,7 @@ AI 기능을 실제 서비스 흐름으로 연결하는 개발자, 전효준입�
       <h3><a href="https://github.com/repechage-team/no-home-backend">NoHome</a></h3>
       <p><em>아파트 실거래가 검색 서비스 · SSAFY 팀 프로젝트</em></p>
       <a href="https://github.com/repechage-team/no-home-backend">
-        <img src="./assets/nohome-screen.png" alt="NoHome — 실거래가 검색, Kakao Map, AI 챗봇 화면" width="100%" />
+        <img src="./assets/nohome-screen.jpg" alt="NoHome — 실거래가 검색, Kakao Map, AI 챗봇 화면" width="100%" />
       </a>
       <p>국토교통부 공공데이터 실거래가를 수집·저장합니다. 매매/전세/월세 통합 검색과 Kakao Map 위치 확인, Spring AI 챗봇 질의를 함께 제공합니다.</p>
       <p><strong>핵심 포인트</strong><br />coverage 기반 자동 데이터 수집 흐름 설계<br />Spring Boot · Spring AI · MyBatis · MySQL<br />Vue · Vite · Kakao Map · Docker Compose</p>
