@@ -6,6 +6,7 @@
   <a href="https://github.com/jjeonyo"><img src="https://img.shields.io/badge/GitHub-jjeonyo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/SSAFY-15th_Java_Track-1F6E68?style=flat-square" alt="SSAFY 15th" />
   <img src="https://img.shields.io/badge/Focus-AI_Product_Flow-2C2C2A?style=flat-square" alt="Focus" />
+  <a href="./portfolio/Hyojun_Jeon_Portfolio.pdf"><img src="https://img.shields.io/badge/Portfolio-PDF-B3261E?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Portfolio PDF" /></a>
 </p>
 
 ## 소개 · About
