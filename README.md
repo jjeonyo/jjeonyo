@@ -16,7 +16,7 @@ AI 기능을 실제 서비스 흐름으로 연결하는 개발자, 전효준입�
 
 - RAG·생성형 응답을 제품 시나리오로 묶는 백엔드 orchestration
 - Spring Boot, FastAPI 서버와 Flutter, Vue 클라이언트 연결
-- SSAFY 15기 Java 전공 트랙 이수 중 — Spring Boot & Spring AI 심화
+- SSAFY 15기 Java 전공 트랙 수료 — Spring Boot & Spring AI
 
 ## 대표 프로젝트 · Featured
 
@@ -39,7 +39,7 @@ AI 기능을 실제 서비스 흐름으로 연결하는 개발자, 전효준입�
         <img src="./assets/lgdx-mascot.png" alt="LGDX AI 도우미 캐릭터" width="180" />
       </p>
       <p>매뉴얼 검색, RAG 답변, 영상 생성, 상태 저장을 하나의 흐름으로 연결한 AI 지원 서비스입니다. 백엔드 orchestration과 클라이언트 UX를 함께 구현했습니다.</p>
-      <p><strong>핵심 포인트</strong><br />RAG 기반 답변 흐름 설계<br />FastAPI · Firestore · Supabase 연동<br />Flutter 채팅·라이브·재생 화면 흐름</p>
+      <p><strong>핵심 포인트</strong><br />하이브리드 RAG — Supabase pgvector + 키워드 검색, text-embedding-004 임베딩<br />FastAPI · Firestore · Supabase · ChromaDB 연동<br />Flutter 채팅·라이브·재생 화면 흐름</p>
       <p><a href="https://github.com/jjeonyo/lgdx_backend">backend</a> · <a href="https://github.com/jjeonyo/lgdx_frontend">frontend</a></p>
     </td>
   </tr>
@@ -56,9 +56,11 @@ AI 기능을 실제 서비스 흐름으로 연결하는 개발자, 전효준입�
 
 **Backend**
 <img src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+- 현재 디자인하우스 전산팀 재직 중 — 사내 IT 운영·기술지원
 
 **AI**
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
@@ -77,5 +79,5 @@ AI 기능을 실제 서비스 흐름으로 연결하는 개발자, 전효준입�
 
 ## 지금은 · Now
 
-- SSAFY 15기 Java 전공 트랙 — Spring 백엔드 심화 학습
-- 꾸준한 알고리즘 문제 풀이 → [Algorithm](https://github.com/jjeonyo/Algorithm)
+- LLM 응용 개발을 이어가며 AI 개발자 기회를 찾고 있습니다
+- 알고리즘 문제 풀이 → [Algorithm](https://github.com/jjeonyo/Algorithm)
